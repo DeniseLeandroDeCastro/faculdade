@@ -1,0 +1,17 @@
+{
+  "name": "bdfaculdade",
+  "version": "1.0.0",
+  "description": "Atividade avaliativa com banco de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denise Maria Leandro de castro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.17.1",
+    "tsconfig": "^7.0.0"
+  }
+}
